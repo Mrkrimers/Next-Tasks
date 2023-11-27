@@ -1,0 +1,14 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.wrapper p {
+    font-size: 20px;
+}
+
+.parr:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
